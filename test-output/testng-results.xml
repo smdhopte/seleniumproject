@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T20:36:40 IST" name="Default suite" finished-at="2023-01-20T20:37:06 IST" duration-ms="25702">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T20:36:40 IST" name="Default test" finished-at="2023-01-20T20:37:06 IST" duration-ms="25702">
+      <class name="pomclasswithpropertyfile.Guru99_Insurance_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:36:41 IST" name="openBrowser" finished-at="2023-01-20T20:36:49 IST" duration-ms="8848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:36:49 IST" name="Login" finished-at="2023-01-20T20:36:55 IST" duration-ms="5166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="verifyEmailAddressOfGuru99()[pri:1, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:36:55 IST" name="verifyEmailAddressOfGuru99" finished-at="2023-01-20T20:36:57 IST" duration-ms="2337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailAddressOfGuru99 -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:36:57 IST" name="Logout" finished-at="2023-01-20T20:37:00 IST" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:37:00 IST" name="Login" finished-at="2023-01-20T20:37:03 IST" duration-ms="3326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="getTitle()[pri:2, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:37:03 IST" name="getTitle" finished-at="2023-01-20T20:37:03 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:37:04 IST" name="Logout" finished-at="2023-01-20T20:37:06 IST" duration-ms="2443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:pomclasswithpropertyfile.Guru99_Insurance_Test@5562c41e]" started-at="2023-01-20T20:37:06 IST" name="closeBrowser" finished-at="2023-01-20T20:37:06 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pomclasswithpropertyfile.Guru99_Insurance_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

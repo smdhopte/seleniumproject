@@ -1,0 +1,22 @@
+
+<suite name="Suite" parallel="tests">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="parelleltesting.Amazon"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test2">
+    <classes>
+      
+      <class name="parelleltesting.Zeroda"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test3">
+    <classes>
+      
+      <class name="parelleltesting.Facebook"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

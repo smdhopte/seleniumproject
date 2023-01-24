@@ -1,0 +1,14 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <groups>
+  <run>
+  <include name="login"/>
+  </run>
+  </groups>
+    <classes>
+      <class name="groupingtce.Test1"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
